@@ -25,6 +25,6 @@
 </br>
 
 ## 🌞 My Languages 🌈
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynanguyen0515&theme=merko"/>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynanguyen0515&theme=merko"/> &nbsp;
+<img align="left" alt="Ly Na's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lynanguyen0515&show_icons=true" />  
 

@@ -17,10 +17,10 @@
 </br>
   
 ## 🎧 Connect with me: 🎧
-<img align="left" alt="Ly Na Nguyen" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg"  href= "https://github.com/Lynanguyen0515"/>
-<img align="left" alt="Ly Na Nguyen | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" href="https://www.linkedin.com/in/lynang15/"/>
-<img align="left" alt="lynnn_2333 | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" href="https://www.instagram.com/lynnn_2333/?hl=en"/>
-<img align="left" alt="lyna.nguyen@columbia.edu" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" href= "lyna.nguyen@columbia.edu" />
+<a href="https://github.com/Lynanguyen0515"><img align="left" alt="Ly Na Nguyen" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg"/></a>
+<a href="https://www.linkedin.com/in/lynang15/"><img align="left" alt="Ly Na Nguyen | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/></a>
+<a href="https://www.instagram.com/lynnn_2333/?hl=en"><img align="left" alt="lynnn_2333 | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"/></a>
+<a href= "lyna.nguyen@columbia.edu"><img align="left" alt="lyna.nguyen@columbia.edu" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"/></a>
 
 </br>
 

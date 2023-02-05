@@ -8,11 +8,11 @@
 <H2> 🍀 About Me 🍀 </H2>
 <img align="left" alt="Personal Picture" src="EB3A1B22-2F23-4AEC-86DC-437EFB7A3A26.jpg" width="200" height="250" /> &nbsp;&nbsp;
   
-<p>🥬 You can find me CTF-ing in my free time and learning new security tools 🥬</p>
+<p>🥬 I'm (ISC)^2 Certified in Cybersecurity and currently working on my Security+ 🥬</p>
 <p>🖥️ A bit too attached to my laptop, but at least I can justify it by being a CS major🖥️ </p>
-<p>🐳 Self-identified foodie and is building a running list of good restaurants around the world 🐳</p>
+<p>🐳 You can find me CTF-ing in my free time and learning new security tools 🐳</p>
 <p>🚶‍♀️ A hiking enthusiast and an Overwatch fanatic (maybe a bit too much?) 🚶‍♀️</p>
-<p>👓 Currently working on an automated pentesting tool 👓</p>
+<p>👓 Currently working on an open source automated pentesting tool 👓</p>
   
 </br>
   
